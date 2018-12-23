@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-12-23 10:36:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2018-11-04 15:51:46 +0800"
@@ -266,6 +272,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2018-11-02 13:19:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-12-23 10:36:55 +0800"
     },
     "done": true
   },
@@ -541,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-12-23 10:36:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-02 20:37:55 +0800"
@@ -564,6 +582,7 @@
       "minecraft:cow": "2018-11-02 20:18:49 +0800",
       "minecraft:chicken": "2018-11-02 20:18:38 +0800",
       "minecraft:pig": "2018-11-02 20:20:09 +0800",
+      "minecraft:wolf": "2018-12-23 13:37:22 +0800",
       "minecraft:sheep": "2018-11-02 20:23:29 +0800"
     },
     "done": false
@@ -614,6 +633,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2018-11-06 13:50:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-12-23 10:36:55 +0800"
     },
     "done": true
   },
@@ -869,13 +894,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-02 13:19:54 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-02 13:19:54 +0800"
     },
@@ -1593,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-12-23 10:36:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2018-10-27 15:12:47 +0800"
@@ -1790,6 +1821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-12-23 10:36:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2018-11-06 13:50:43 +0800"
@@ -1859,6 +1896,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2018-11-06 14:23:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2018-12-23 13:19:25 +0800"
     },
     "done": true
   },
